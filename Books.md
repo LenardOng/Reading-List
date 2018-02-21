@@ -46,7 +46,6 @@
 ### What's different
 + Large focus on Shannon Information Theory
 + Theory of compression with an emphasis on information theory
-
 ### What else is good
 + Very practical with many examples with accompanying solutions to assist learning
 + Clearest definition of probability I've read
