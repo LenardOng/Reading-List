@@ -42,7 +42,7 @@
 * Information theory is introduced very late in the book, whereas it is an important idea that should be introduced much earlier
     
 # In progress
-##Information Theory, Inference and Algorithms
+## Information Theory, Inference and Algorithms
 ### What's different
 + Large focus on Shannon Information Theory
 + Theory of compression with an emphasis on information theory
