@@ -42,6 +42,25 @@
 * Information theory is introduced very late in the book, whereas it is an important idea that should be introduced much earlier
     
 # In progress
+
+## Pattern Recognition and Machine Learning
+### What's different
++ Probably the best book out there by the amount of material is being covered
+### What else is good
++ Clearer in explanation on the Information Theory front than McKay
+### What can be improved
+
+## Gaussian Processes for Machine Learning
+### What's different
+### What else is good
++ Bayesian interpretation of common machine learning techniques
+### What can be improved
+
+## Convex Optimisation
+### What's different
+### What else is good
+### What can be improved
+
 ## Information Theory, Inference and Algorithms
 ### What's different
 + Large focus on Shannon Information Theory
@@ -49,7 +68,6 @@
 ### What else is good
 + Very practical with many examples with accompanying solutions to assist learning
 + Clearest definition of probability I've read
-
 ### What can be improved
 + Easy to get lost in the maths unless working through exercises
     
