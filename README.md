@@ -1,8 +1,11 @@
 # An ongoing list of books read and short reviews
 
-## This is mainly a personal list to keep track of readings
+## This is mainly a personal list to keep track of readings and things I've learned from the books that I've read. 
+The list is located at [Books.md](Books.md).
 
-### There is currently only one file, [Books.md](Books.md), that contains mini-reviews of books. There is a plan to extend this to a full chapter by chapter review of books in the future
+The focus while reading through these books is not a thorough understanding, but rather as a brief read through, with the hopes that multiple exposure of the same topic from different angles will help overall understanding more than remaining stuck on a topic for a longer period of time. Revisiting difficult books later down the line after reading 'simpler' books definitely helped me understand and grasp difficult topics that are otherwise very difficult to self-learn.
+
+Reading multiple books increase the number of impressions that each idea makes, which helps the human memory recall common ideas.
 
 ### Prior knowledge that the views expressed here are from 
 
@@ -11,4 +14,5 @@
 + Have done Creative Applications of Deep Learning with Tensorflow I (on Kadenze)
 + Working on a fourth year project using Deep Learning (CNN-LSTM) for Visual Odometry / Camera egomotion
 + Working through Andrew Ng's deep learning course
+
 

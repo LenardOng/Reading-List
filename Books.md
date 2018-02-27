@@ -22,15 +22,9 @@
 * A lot of fluff about the history and evolution of the ideas, not necessarily a bad thing but there could be a larger focus on state-of-the-art algorithms and comparison results to other machine learning techniques
 * Information theory is introduced very late in the book, whereas it is an important idea that should be introduced much earlier
     
-# In progress
+# In progress - Full review
 
-## Pattern Recognition and Machine Learning
-### What's different
-+ Probably the best book out there by the amount of material is being covered
-### What else is good
-+ Clearer in explanation on the Information Theory front than McKay
-+ Soft introduction to Gaussian Processes
-### What can be improved
+## [Pattern Recognition and Machine Learning](Book_Reviews/In_Progress/pattern_recog.md)
 
 ## Gaussian Processes for Machine Learning
 ### What's different

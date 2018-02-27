@@ -13,7 +13,7 @@
 ### What can be improved
 *	Maybe more explanation in applications, emphasising the distinction and uses between the four major machine learning problems, dimensionality reduction, regression, classification and clustering.
 
-### Things I need to revisit (Not explained too well)
+### Things I need to revisit
 * Viterbi
 * Particle Filter
 * Hopsfield
