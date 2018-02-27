@@ -1,9 +1,10 @@
-# An ongoing list of books read and short reviews
+# An ongoing list of knowledge sourced from books / online courses
 
 ## This is mainly a personal list to keep track of readings and things I've learned from the books that I've read. 
 The list is located at [Books.md](Books.md).
 
-## There is now a new list to cover Massive Open Online Courses (MOOCs) that I've completed. The list is located at [MOOC.md](MOOC.md).
+## There is now a new list to cover Massive Open Online Courses (MOOCs) that I've been going through. 
+The list is located at [MOOC.md](MOOC.md).
 
 The focus while reading through these books was not a thorough understanding, but rather a brief read through, with the motivation that multiple exposures of the same topic from different angles will help overall understanding more than remaining stuck on a topic for a longer period of time. Revisiting difficult books later down the line after reading 'simpler' books definitely helped me understand and grasp difficult topics that are otherwise very difficult to self-learn.
 

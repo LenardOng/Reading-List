@@ -8,6 +8,7 @@ Total of 11 weeks
 Finished second week exercise on Linear Regression
 Working on the third week now (1 week ahead)
 Introduction to powerful methods that are not just Neural Networks
+Helped explain concepts from on-going machine learning course in university and to try things out in code
 
 Week 1 - Linear Regression
 Week 2 - Logistic Regression
