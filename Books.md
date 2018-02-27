@@ -5,9 +5,9 @@
 
 # Mini-reviews
 
-+ [Machine Learning: An Algorithmic Perspective](Book_Reviews/mini/machine_learning_alg.md)
++ [Machine Learning: An Algorithmic Perspective](Book_Reviews/Mini/machine_learning_alg.md)
 	
-+ [Bayesian Artificial Intelligence](Book_Reviews/mini/bayesian_ai.md)
++ [Bayesian Artificial Intelligence](Book_Reviews/Mini/bayesian_ai.md)
     
 # In progress - Full review
 
