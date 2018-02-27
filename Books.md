@@ -11,14 +11,14 @@
     
 # In progress - Full review
 
-## [Pattern Recognition and Machine Learning](Book_Reviews/In_Progress/pattern_recog.md)
++ [Pattern Recognition and Machine Learning](Book_Reviews/In_Progress/pattern_recog.md)
 
 # In progress - Mini review
-## [Gaussian Processes for Machine Learning](Book_Reviews/In_Progress/gp.md)
++ [Gaussian Processes for Machine Learning](Book_Reviews/In_Progress/gp.md)
 
-## [Information Theory, Inference and Algorithms](Book_Reviews/In_Progress/informationtheory.md)
++ [Information Theory, Inference and Algorithms](Book_Reviews/In_Progress/informationtheory.md)
     
-## [The Elements of Statistical Learning](Book_Reviews/In_Progress/esl.md)
++ [The Elements of Statistical Learning](Book_Reviews/In_Progress/esl.md)
 
 	
 # Dropped - For now
