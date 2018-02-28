@@ -12,12 +12,10 @@ Reading multiple books increase the number of impressions that each idea makes, 
 
 Mixing in MOOCs for practical learning to go from theory in books to practice in code.
 
-### Prior knowledge that the views expressed here are from 
+### Note: My views are based on the prior knowledge I had and things that I've found difficult or easy are based on them. This is my prior knowledge with hopes that it helps the reader understand my viewpoint:
 
-+ Fourth year Engineering Science student 
++ I'm a Fourth year Engineering Science student 
 + I'm doing a Machine learning course at university
 + Have done Creative Applications of Deep Learning with Tensorflow I (on Kadenze)
 + Working on a fourth year project using Deep Learning (CNN-LSTM) for Visual Odometry / Camera egomotion
 + Working through Andrew Ng's deep learning course
-
-

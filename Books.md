@@ -19,10 +19,9 @@
 + [Information Theory, Inference and Algorithms](Book_Reviews/In_Progress/informationtheory.md)
     
 + [The Elements of Statistical Learning](Book_Reviews/In_Progress/esl.md)
-
 	
 # Dropped - For now
-+ Neural Networks and Learning Machines
++ Neural Networks and Learning Machines - Difficult to follow
 
 	
 	

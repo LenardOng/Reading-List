@@ -1,6 +1,6 @@
 ## Pattern Recognition and Machine Learning
 ### Introduction to my experience with this book
-This is a very highly recommended book that I initially had many problems understanding reading during my third year of Engineering Science. Since then, I've been through information engineering courses and have read other books to catch up with the required knowledge to understand this book. 
+This is a very highly recommended book starting from the third year in Engineering Science. I avoided this a year ago because I initially had many problems understanding the material. It may not be the best introductory book, as new material is introduced at a fast pace without detailed explanations. However since then I've been through multiple information engineering modules and have read other books to catch up with the required background knowledge.
 
 This is probably not the best introductory book, but is self contained and gradually introduces many difficult concepts and theories that the machine learning engineer should know.
 
