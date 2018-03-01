@@ -8,7 +8,8 @@ Total of 11 weeks
 Finished second week exercise on Linear Regression
 Finished third week exercise on Logistic Regression
 Finished fourth week exercise on Multi-class classification and a 1 hidden layer Neural Network
-Working on the fifth week now (3 weeks ahead)
+Finished fifth week exercise on coding the back-propagation for weight updating including skipping bias terms in the back-propagation
+Working on the sixth week now (4 weeks ahead)
 
 Introduction to powerful methods that are not just Neural Networks
 Helped explain concepts from on-going machine learning course in university and to try things out in code
@@ -19,9 +20,10 @@ Week 2 - Multivariate Linear Regression
 Week 3 - Logistic Regression and Regularisation
     Gradient of the logistic cost function having the same structure as the gradient for linear regression
 Week 4 - Neural Network: Representation and Multi-class Classification
-    Implementation of a simple 1 layer Neural Network
+    Implementation of a simple 1 layer Neural Network - Forward pass
 Week 5 - Neural Network: Learning
-
+    Coding back-propagation for a multi-class 1 hidden layer classifier
+Week 6 - Advice for applying machine learning
 
 
 Use of Octave (Not as popular recently... but works anyway!)
