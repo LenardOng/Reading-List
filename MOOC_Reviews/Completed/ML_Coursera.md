@@ -1,5 +1,6 @@
-Machine Learning by Stanford University on Coursera
+## Machine Learning by Stanford University on Coursera
 
+### Summary
 + Introduction to powerful methods that are not just Neural Networks
 + Helped explain concepts from on-going machine learning course in university and to try things out in code
 + Really appreciate the exercises in understanding and implementation
