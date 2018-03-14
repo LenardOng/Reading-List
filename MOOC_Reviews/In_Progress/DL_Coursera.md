@@ -22,9 +22,13 @@
 + Shallow neural networks
     + Faster and clearer introduction to stacking layers in networks than ML Course
     + More time spent on vectorisation - How it works and its structure
-    + Updated with more activation functions
+    + Updated with newer and more trendy activation functions
 + Deep Neural Networks
-
+    + More focus on matrix dimension consistency (Usually handled by the deep learning library, but good for understanding)
+    + 
+    
+    
+    
 ## Improving Deep Neural Networks: Hyperparameter Tuning, Regularisation and Optimisation
 
 ### Total of 3 weeks
