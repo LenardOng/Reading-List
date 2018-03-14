@@ -8,7 +8,7 @@
     + Convolutional Neural Networks
     + Sequence Models
 + Total of 16 weeks
-
++ Coding is now in Python 3 rather than Octave/Matlab and happens in a Jupyter Notebook rather than a separate program. Evaluation happens by analysing the notebook.
 
 
 ## Neural Networks and Deep Learning
@@ -17,8 +17,12 @@
 + Introduction to deep learning
     + Material very similar to Machine Learning Coursera MOOC
 + Neural Networks Basics
-    + Material very similar to Machine Learning Coursera MOOC
+    + A little more basic than expected, assumes no knowledge of gradients or the chain rule
+    + Coding felt a little too guided compared to ML Course
 + Shallow neural networks
+    + Faster and clearer introduction to stacking layers in networks than ML Course
+    + More time spent on vectorisation - How it works and its structure
+    + Updated with more activation functions
 + Deep Neural Networks
 
 ## Improving Deep Neural Networks: Hyperparameter Tuning, Regularisation and Optimisation
