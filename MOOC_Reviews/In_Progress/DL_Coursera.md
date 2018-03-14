@@ -13,6 +13,9 @@
 
 ## Neural Networks and Deep Learning
 
++ Was a good re-introduction to neural networks again after doing the Machine Learning course
++ Coding tasks were easier in general due to the Jupyter Notebooks and code was provided where explanations may have not been clear
+
 ### Total of 4 weeks
 + Introduction to deep learning
     + Material very similar to Machine Learning Coursera MOOC
@@ -24,10 +27,8 @@
     + More time spent on vectorisation - How it works and its structure
     + Updated with newer and more trendy activation functions
 + Deep Neural Networks
-    + More focus on matrix dimension consistency (Usually handled by the deep learning library, but good for understanding)
-    + 
-    
-    
+    + Lots of focus on matrix dimension consistency (Usually handled by the deep learning library, but good for understanding)
+    + Implementing a vectorised form of backpropagation with generalised functions for scalable code
     
 ## Improving Deep Neural Networks: Hyperparameter Tuning, Regularisation and Optimisation
 
