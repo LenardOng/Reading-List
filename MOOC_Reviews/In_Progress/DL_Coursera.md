@@ -58,6 +58,9 @@
     
 ## Structuring Machine Learning Projects
 
++ Much more focused on the practical side of designing machine learning systems
++ Very useful in terms of getting pseudo-experience and tips on how to go about developing systems in a systematic way
+
 ### Total of 2 weeks
 + Part 1 - Machine Learning Strategy
     + Importance of a single number evaluation metric (Repeat from Machine Learning)
@@ -68,7 +71,8 @@
     + Can have other constraints (satisficing) in optimising parameters
 + Part 2 - Machine Learning Strategy
     + Error analysis on the mislabelled data in order to know where to focus efforts
-    
+    + Distribution mismatch when augmenting data with crawled vs collected images. Use small collected set as dev/test set!
+    + Comparison between human error levels, training set errors, training-dev set errors and dev errors
 
 
 
@@ -76,7 +80,11 @@
 
 ### Total of 4 weeks
 + Foundations of CNNs
+    + Slight intuitions and basic introduction
 + Deep CNNs: Case Studies
+    + Standard CNNs - AlexNet, LeNet-5, VGG16
+    + Residual networks - Skip connection has potential to ignore layers by learning an identify function. Convolution layers must be padded for equal sizing
+    + Inception modules - Motivation and structure
 + Object Detection
 + Special applications: Face recognition and neural style transfer
 
