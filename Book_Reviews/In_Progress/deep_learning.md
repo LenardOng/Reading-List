@@ -1,8 +1,6 @@
 ## Deep Learning
 ### Introduction to my experience with this book
-This is a very highly recommended book starting from the third year in Engineering Science. I avoided this a year ago because I initially had many problems understanding the material. It may not be the best introductory book, as new material is introduced at a fast pace without detailed explanations. However since then I've been through multiple information engineering modules and have read other books to catch up with the required background knowledge.
-
-This is probably not the best introductory book, but is self contained and gradually introduces many difficult concepts and theories that the machine learning engineer should know.
+This is an introductory book that is more accessible and provides a high level introduction to complex topics 
 
 
 ### Chapter breakdown
@@ -11,12 +9,9 @@ This is probably not the best introductory book, but is self contained and gradu
 + Chapter 2 (Part 1) - Linear Alegebra - required for deep learning. For deep learning this is around an A level standard and not too difficult.
 
 + Chapter 3 - Probability and Information Theory - Introduction to basic probability and statistical concepts which spans from A level standards to more complex concepts. 
-
-Basic probability concepts include the multinoulli distribution, the Gaussian distribution, Dirac Delta distribution, Gaussian Mixtures and Bayes' rule. 
-
-Basic information theory include Shannon information, KL divergence / Cross-entropy, (a commonly used cost for multinoulli distributions).
-
-Basic introduction to graphical models
+    +Basic probability concepts include the multinoulli distribution, the Gaussian distribution, Dirac Delta distribution, Gaussian Mixtures and Bayes' rule. 
+    + Basic information theory include Shannon information, KL divergence / Cross-entropy, (a commonly used cost for multinoulli distributions).
+    + Basic introduction to graphical models
 
 + Chapter 1 - Breakdown
 + Chapter 1 - Breakdown
