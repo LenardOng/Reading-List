@@ -1,17 +1,19 @@
 ## Deep Learning
 ### Introduction to my experience with this book
-+ This is an introductory book that is more accessible and provides a high level introduction to complex topics 
+
 
 
 ### What's different
 + A book that is fully focused on deep learning and ensures new readers to machine learning can keep up with the content
++ Fast way to become up to date with deep learning research
 + More detailed statistical view into machine learning
 
 ### What else is good
 + Extended detail beyond the necessary
++ Representing the learning of an NN as a lower dimension manifold in higher dimensional space
 
 ### What can be improved
-+
++ 
 
 ## Brief personal summary of the book and things that I've learned from the book:
 
@@ -87,15 +89,66 @@
     + Biological motivations for the CNN
     
 + Chapter 10 - Sequence models: Recurrent and Recursive Nets
+    + Unrolling the RNN to understand the time-dependent information flow
+    + Backpropagation through time to calculate gradients many time-steps backwards
+    + RNN as a complete graph that can model complex state transfers
+    + Variable state lengths - important for variable length sequences
+    + Additional parameters to predict length of sequence, forget rate, etc.
+    + Bi-directional RNN, auto-encoder RNN using a context intermediate state
+    + Easier to optimise shallow architectures for RNNs - Skip connections can help propagate gradients
+    + Echo networks - Training the output and not the recurrance nature of the network. Can set up quadratic cost to result in quadratic convergence. State transfer should be stable (eigenvalues close to one), but non-linearity reduces the state transfer significantly.
+    + Leaky units to propagate state linearly in time
+    + Easier to design a model that is easier to optimise than to find a more powerful one
+    + Random step in any direction when gradient explodes to inf escapes 'cliff' zone
+    + Explicity memory for neural networks in a neural turing machine architecture
     
 + Chapter 11 - Practical Methodology
+    + Lots of content is similar to Andrew Ng's CourseRA MOOC detailing the practical implementations of a machine learning solution
+    + Logarithmic scale on the amount of data needed to improve the algorithm
+    + Random search for hyperparameters rather than grid search
+    + Bayesian regression model to help decide the location of exploration
+    + Fit a tiny dataset first and check for a low training error before fitting large datasets
+    + Calculation of gradient through the use of complex numbers
+    + Checking the activations in a neural network
+    + Case study on the street view numbers dataset
+    
 + Chapter 12 - Applications
+    + Discussion on GPU implementation, distributed training using asynchronous stochastic gradient descent
+    + Cascaded classifiers in order to reduce everyday computational load on 'easy' classifications - similar to a decision tree approach to separate neural network components
+    + Truncating numerical precision at inference time
+    + Global contrast normalisation for pre-processing images for NN input - maps the contrast differences onto a sphere - highlights the edges, removes impact of shadows
+    + NNs are best for regressing the output from the directions of the multivariable vectors rather than locations - Normalisation of the image
+    + Dataset augmentation to improve classification invariances
+    + NLP - word embeddings for better relational performance
+    + Split representations of frequent and infrequent words by using the NN to predict probabilities of using the other
+    + Importance sampling - using negative samples to aid in training and calculation of gradients (only done w.r.t. the total of the positive and negative samples)
+    + Using a relational database to learn more structure from the data - train by generating false negatives by random shuffling
 
 ### Part 3 - Deep Learning Research
 
 + Chapter 13 - Linear Factor Models
+    + Statistical (generalisation) and computational challenges (intractable higher dimensional data)
+    + Intractable inference/normalisation constants
+    + Slowness principle by appending a cost proportional to the differences in time - penalises rapid changes and is differentiable
+    + Imposing a prior to yield closed form solutions
+    + Expectation maximisation as a general solution for probability models
+    + Linear factor models with chosen priors allow for generative modelling
+
 + Chapter 14 - Autoencoders
+    + Reconstruction error leads to useful properties of the functional mapping to be learned
+    + Re-circulation training by comparing activation patterns between encoder and decoder
+    + Regularising the encoder to learn more useful represetations
+    + Manifold tangent planes - NNs learn a function that behaves correctly on the lower dimension manifold
+    + Semantic hashing for information retrieval
+
 + Chapter 15 - Representation Learning
+    + Pre-training more useful to NLP tasks than image tasks possibly due to images lying in a rich vector space where distances provide a low quality similarity metric
+    + Pre-training reduces the variance of the possible converged networks 
+    + Unsupervised pre-training to allow the learning algorithm to find the underlying causes that generate the observations
+    + One-shot and zero-shot learning by trying to generalise across tasks and having unique representations in the latent space for every test input
+    + Alternate losses (such as GAN loss) to encourage the learning of important salient features
+    
+    
 + Chapter 16 - Structured Probabilistic Models for Deep Learning
 + Chapter 17 - Monte Carlo Methods
 + Chapter 18 - Confronting the Partition Function
@@ -103,6 +156,6 @@
 + Chapter 20 - Confronting the Partition Function
 
 ### Things I need to revisit
-
+    + Linear factor models
 
 
