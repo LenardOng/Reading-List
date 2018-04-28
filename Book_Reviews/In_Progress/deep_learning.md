@@ -152,14 +152,30 @@
     + Large amount of possible regularisers to encourage the learned latent space to have good properties    
     
 + Chapter 16 - Structured Probabilistic Models for Deep Learning
-    +
+    + Structured models to reduce the number of parameters needed to represent a joint distribution
+    + Directed vs undirected models depending on the conditioning of the distributions
+    + Nodes must not share any children in order to be considered d-separated when the child is observed
+    + Deep learning approach to probabilistic models - Inflate model capabilities until it is barely trainable, use minimum information required, approximate objective function (which needs to have gradients) and approximately train a satisfactory model
+    + Restricted Boltzmann machine - energy-based model (linear in parameters) with hidden units and a special structure that allows efficient block Gibbs sampling
+    
+    
 + Chapter 17 - Monte Carlo Methods
+    + Markov chain - Update matrix (stochastic matrix) has a largest eigenvalue corresponding to 1, all other components decay to zero with enough steps. Eventually converges to an equilibrium distribution
+    + Successive samples are correlated - need to burn in a few samples before re-drawing another sample
+    + Ancestral sampling in graphs does not need any burn-in time (directed and acyclic) and only requires a single pass
+
 + Chapter 18 - Confronting the Partition Function
-+ Chapter 19 - Monte Carlo Methods
+    + Contrastive divergence to reduce the cost of MCMC sampling by initialise the MCMC chain with a distribution close to the one being simulated
+    + Stochastic maximum likelihood initialise multiple MCMC using samples drawn from a previous timestep of the MCMC state
+    + Pseudolikelihood using the cancellation of the partition function when considering conditional probabilities
+
++ Chapter 19 - Approximate Inference
+    + Recast as optimisation problem using the KL divergence
+
 + Chapter 20 - Confronting the Partition Function
 
 ### Things I need to revisit
 
     + Linear factor models
-
+    + Approximate inference
 
