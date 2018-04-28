@@ -147,15 +147,19 @@
     + Unsupervised pre-training to allow the learning algorithm to find the underlying causes that generate the observations
     + One-shot and zero-shot learning by trying to generalise across tasks and having unique representations in the latent space for every test input
     + Alternate losses (such as GAN loss) to encourage the learning of important salient features
-    
+    + Distributed representations - Increasing the output configurations by separating the features resulting in a large similarity space
+    + Neural networks learn distributed representations that allow generalisation when the target function does not have the smoothness property. nd parameters result in n^d regions in input space
+    + Large amount of possible regularisers to encourage the learned latent space to have good properties    
     
 + Chapter 16 - Structured Probabilistic Models for Deep Learning
+    +
 + Chapter 17 - Monte Carlo Methods
 + Chapter 18 - Confronting the Partition Function
 + Chapter 19 - Monte Carlo Methods
 + Chapter 20 - Confronting the Partition Function
 
 ### Things I need to revisit
+
     + Linear factor models
 
 
