@@ -13,6 +13,8 @@
 
 + [Pattern Recognition and Machine Learning](Book_Reviews/In_Progress/pattern_recog.md)
 
++ [Bayesian Reasoning and Machine Learning](Book_Reviews/In_Progress/bayesianreasoning.md)
+
 + [Deep Learning](Book_Reviews/In_Progress/deep_learning.md)
 
 # In progress - Mini review
