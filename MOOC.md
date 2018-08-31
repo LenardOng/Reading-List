@@ -16,7 +16,9 @@ These MOOCs span multiple weeks and hence will be updated much slower (based on 
 + [Deep Learning Specialisation by deeplearning.ai on Coursera](MOOC_Reviews/Completed/DL_Coursera.md)
 
 ## On-going reviews
-+ [Creative Applcations of Deep Learning with Tensorflow on Kadenze](MOOC_Reviews/In_Progress/CADL_Kadenze.md)
++ [SQL for Data Science on Coursera](MOOC_Reviews/In_Progress/Coursera_SQLDataScience.md)
++ [Applied Data Science with Python on Coursera](MOOC_Reviews/In_Progress/Coursera_AppliedDataScience.md)
+
 
 ## For the future
 + [Robotics by University of Pennsylvania](https://www.coursera.org/specializations/robotics)
