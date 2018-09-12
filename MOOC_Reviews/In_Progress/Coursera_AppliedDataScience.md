@@ -14,7 +14,6 @@
 ## Introduction to Data Science in Python 
 
 + Focuses on the use of the 'pandas' library in Python
-+ 
 
 ### Total of 4 weeks
 

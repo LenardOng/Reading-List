@@ -8,12 +8,11 @@ These MOOCs span multiple weeks and hence will be updated much slower (based on 
 ## On-going with a link to the course webpage
 
 + [Applied Data Science with Python on Coursera](https://www.coursera.org/specializations/data-science-python "Applied Data Science with Python")
-+ [SQL for Data Science on Coursera](https://www.coursera.org/learn/sql-for-data-science "SQL for Data Science")
-
 
 ## Completed reviews 
 + [Machine Learning by Stanford University on Coursera](MOOC_Reviews/Completed/ML_Coursera.md)
 + [Deep Learning Specialisation by deeplearning.ai on Coursera](MOOC_Reviews/Completed/DL_Coursera.md)
++ [SQL for Data Science on Coursera](https://www.coursera.org/learn/sql-for-data-science "SQL for Data Science")
 
 ## On-going reviews
 + [SQL for Data Science on Coursera](MOOC_Reviews/In_Progress/Coursera_SQLDataScience.md)
