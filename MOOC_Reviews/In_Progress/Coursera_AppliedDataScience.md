@@ -21,15 +21,26 @@
     + Basic intro to python, from the perspective of a coder who knows a different language
     
 + Basic Data Processing with Pandas
-    
+    + Creating data frames, filtering, dropping, mean, basic operations
     
 + Advanced Python Pandas
-    + Easy to understand with prior database knowledge
+    + Easy to understand with prior database knowledge (groups/joins)
+    + Learning syntax differences between SQL and the Pandas library
     
 + Statistical Analysis in Python and Project
-    + 
+    + A little revision on statistical p-testing and confidence intervals
+    + Brief discussion on probability distributions
     
+## Applied Machine Learning in Python
+    
++ Focuses on the use of the 'scikit-learn' library in Python
 
+### Total of 4 weeks
+
++ Fundamentals of Machine Learning - Intro to SciKit Learn    
+    + Quick introduction to different KNN and tools available for machine learning in python
     
-    
-    
++ Supervised Machine Learning
+    + Linear regression comparison with KNN
+    + Regularisation
+    + SVMs - basic intuitive introduction
