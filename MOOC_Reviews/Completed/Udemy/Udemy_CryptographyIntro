@@ -1,0 +1,9 @@
+##  Cryptography Beginners Guide with openSSL - 1.5 hour overview
+
+### Summary
++ 1.5 hours of video
++ Quick introduction to cryptography and basic encryption mechanisms (Hashing, basic encryption, symmetric keys)
++ Practical usage using openSSL
+
+### Opinion
++ Good practical introduction to generating keys in Linux and digitally signing files
